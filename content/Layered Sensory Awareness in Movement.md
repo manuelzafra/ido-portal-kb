@@ -71,3 +71,89 @@ This concept aligns with the idea of embodied cognition – the understanding th
 
 ### The Science & Practice of Movement — Huberman Lab
 > True mastery in movement lies in the ability to dynamically shift between finely-tuned control and expansive, fluid awareness.
+
+---
+concept: "3. Layered Sensory Awareness in Movement"
+source: "Mastery Is a Myth | Movement Is an Endless Investigation — Mark Bell"
+date: 2026-03-22
+---
+
+# 3. Layered Sensory Awareness in Movement
+
+## Definition
+The idea that movement is not simply a motor action, but a complex interplay of sensory information – visual, auditory, tactile, proprioceptive – that shapes and guides movement.
+
+## Explanation
+This concept emphasizes the importance of paying attention to *how* something feels, not just *what* you’re doing. It’s about integrating all sensory input into the movement process.
+
+## Key Insight
+“It’s not enough. First I started with events. Then I started with intensives.” –  A recognition that simply performing an action isn’t sufficient for true transformation; it requires a deeper, more integrated understanding.
+
+## Examples
+The observation of the tribe’s movement – their awareness of rhythm, their use of their feet, their connection to the environment.
+
+## Relationships
+* Related to: [[Neuroplasticity]], [[Embodied Cognition]]
+* Opposes: [[Disembodied Learning]]
+
+## Notes
+This is a core tenet of Portal’s training methodology – focusing on the *feeling* of movement, not just the mechanics.
+
+## Sources
+
+### Mastery Is a Myth | Movement Is an Endless Investigation — Mark Bell
+> “It’s not enough. First I started with events. Then I started with intensives.” –  A recognition that simply performing an action isn’t sufficient for true transformation; it requires a deeper, more integrated understanding.
+
+---
+concept: "1. Layered Sensory Awareness in Movement"
+source: "Huberman Lab"
+date: 2026-03-21
+---
+
+# 1. Layered Sensory Awareness in Movement
+
+## Definition
+Movement practice isn't solely about physical execution; it’s a multi-layered exploration of sensory experience – body awareness, emotional awareness, and the awareness of movement itself – as a foundational element.
+
+## Explanation
+This concept emphasizes that movement isn’t just a series of muscular actions. It’s about cultivating a heightened awareness of the body’s position in space, the sensations produced by movement, and the subtle shifts in emotional state that accompany movement. It’s about recognizing that the body, mind, and movement are intrinsically linked.
+
+## Key Insight
+Movement practice is fundamentally an exercise in sensory awareness, not just physical skill.
+
+## Examples
+*   Ido’s observation of his own playful behavior in his house, noticing the shift in his movement patterns.
+*   The deliberate practice of avoiding contact with others while walking in Hong Kong, focusing on bodily awareness.
+
+## Relationships
+*   Related to: [[Sensory Integration]], [[Proprioception]]
+*   Opposes: [[Rigid Technique]]
+
+## Notes
+This concept aligns with the idea of embodied cognition – the understanding that cognition is deeply rooted in bodily experience.
+
+## Sources
+
+### Huberman Lab
+> Movement practice is fundamentally an exercise in sensory awareness, not just physical skill.
+
+### ViKA TALKS + Ido Portal Part 2
+> “It’s not about doing the movement, it’s about *being* the movement.”
+
+### Movement & Mindset (1st English) — Antifragil Podcast
+> “The body doesn’t lie.” – Prioritizing direct sensory experience over conceptual understanding is crucial for movement mastery.
+
+### The Real Work Ep 3 — Ed Lofts
+> True movement mastery isn’t about intellect; it’s about cultivating a constant, immediate feedback loop through sensory awareness.
+
+### Mastery Is a Myth | Movement Is an Endless Investigation — Mark Bell
+> True mastery in movement comes from cultivating a heightened sensory awareness, not simply learning technique.
+
+### Teaches Movement Intelligence — Mark Bell
+> “The ground is even and the body is not.” – A foundational observation for developing this awareness.
+
+### In Flux — Fred Pinto Podcast
+> True mastery comes not from replicating a movement, but from deeply understanding the sensory experience of movement itself.
+
+### The Science & Practice of Movement — Huberman Lab
+> Movement mastery isn’t about a single, optimal state of awareness, but rather the ability to flexibly shift between sensory layers to achieve desired outcomes.
