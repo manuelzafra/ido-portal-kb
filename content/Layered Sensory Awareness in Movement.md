@@ -157,3 +157,9 @@ This concept aligns with the idea of embodied cognition – the understanding th
 
 ### The Science & Practice of Movement — Huberman Lab
 > Movement mastery isn’t about a single, optimal state of awareness, but rather the ability to flexibly shift between sensory layers to achieve desired outcomes.
+
+### Ido Portal with students a round table conversation
+> “The more you know, the less you understand.” – This highlights the danger of intellectualizing movement, suggesting that direct sensory experience is a more profound and reliable source of knowledge.
+
+### McGregor's Coach If You Exercise Like This, You're Destroying Your Body
+> True mastery comes from a deeply embodied understanding of movement, cultivated through heightened sensory awareness.

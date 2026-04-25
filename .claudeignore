@@ -1,0 +1,58 @@
+# Template .claudeignore — copiar a cada proyecto.
+# Mantiene este archivo como fuente de verdad; ajusta por proyecto si necesario.
+
+# ===== Secretos =====
+.env
+.env.*
+*.env
+secrets/
+.livink_secrets/
+credentials*.json
+
+# ===== Virtual envs / cache =====
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# ===== Node =====
+node_modules/
+.next/
+dist/
+build/
+.turbo/
+.vercel/
+out/
+
+# ===== Datos pesados =====
+*.parquet
+*.arrow
+*.sqlite
+*.db
+data/raw/
+data/processed/
+
+# ===== Media pesada =====
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.pdf
+*.zip
+*.tar.gz
+*.webm
+
+# ===== Logs / temp =====
+*.log
+logs/
+tmp/
+.cache/
+.DS_Store
+
+# ===== Git / Backups =====
+.git/
+*.bak
+*_backup_*
